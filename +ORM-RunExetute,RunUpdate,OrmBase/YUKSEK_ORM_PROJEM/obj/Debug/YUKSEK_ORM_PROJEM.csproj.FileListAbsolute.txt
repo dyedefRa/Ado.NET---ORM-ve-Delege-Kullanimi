@@ -1,0 +1,14 @@
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\YUKSEK_ORM_PROJEM.exe.config
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\YUKSEK_ORM_PROJEM.exe
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\YUKSEK_ORM_PROJEM.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\ENTITY.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\ORM.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\ENTITY.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\bin\Debug\ORM.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.Form1.resources
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.Properties.Resources.resources
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.exe
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\YUKSEK_ORM_PROJEM\obj\Debug\YUKSEK_ORM_PROJEM.pdb

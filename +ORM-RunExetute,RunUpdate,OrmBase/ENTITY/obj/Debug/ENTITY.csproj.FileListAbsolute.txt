@@ -1,0 +1,6 @@
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\bin\Debug\ENTITY.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\bin\Debug\ENTITY.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\obj\Debug\ENTITY.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ENTITY\obj\Debug\ENTITY.pdb

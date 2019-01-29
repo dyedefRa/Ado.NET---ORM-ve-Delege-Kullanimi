@@ -1,0 +1,46 @@
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe.config
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Form1.resources
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Properties.Resources.resources
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb
+C:\Users\Asus\source\repos\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.RaporFormu.resources
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe.config
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Form1.resources
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Properties.Resources.resources
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.RaporFormu.resources
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\A.ENTITY FRAMEWORK+ nTeir Katman(ORM)\ET.LAMBDA LINQ ALAYI BURDA @@\5.5 CodeFirst Mimarisi(ibrahim)\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe.config
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Form1.resources
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.Properties.Resources.resources
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\_5._5_CodeFirst_Mimarisi_ibrahim_.RaporFormu.resources
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).csproj.CopyComplete
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).exe
+C:\Users\Asus\source\repos\+ Ado.net,ORM-RunExecute,Lambda-Join-Delege\+Proje-G-Lambda ile Joinleme ,FiyatagoreSirala,Listele\5.5 CodeFirst Mimarisi(ibrahim)\obj\Debug\5.5 CodeFirst Mimarisi(ibrahim).pdb

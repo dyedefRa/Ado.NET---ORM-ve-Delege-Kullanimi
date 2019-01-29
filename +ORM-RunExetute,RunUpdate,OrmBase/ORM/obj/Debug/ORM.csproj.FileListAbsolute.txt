@@ -1,0 +1,8 @@
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\bin\Debug\ORM.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\bin\Debug\ORM.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\bin\Debug\ENTITY.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\bin\Debug\ENTITY.pdb
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\obj\Debug\ORM.dll
+c:\users\asus\source\repos\YUKSEK_ORM_PROJEM\ORM\obj\Debug\ORM.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\bin\Debug\4.2 ADO.NET DISCONNETED MIMARI.exe.config
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\bin\Debug\4.2 ADO.NET DISCONNETED MIMARI.exe
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\bin\Debug\4.2 ADO.NET DISCONNETED MIMARI.pdb
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\4.2 ADO.NET DISCONNETED MIMARI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\_4._2_ADO.NET_DISCONNETED_MIMARI.Form1.resources
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\_4._2_ADO.NET_DISCONNETED_MIMARI.Properties.Resources.resources
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\4.2 ADO.NET DISCONNETED MIMARI.csproj.GenerateResource.Cache
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\4.2 ADO.NET DISCONNETED MIMARI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\4.2 ADO.NET DISCONNETED MIMARI.exe
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\4.2 ADO.NET DISCONNETED MIMARI.pdb
+C:\Users\Asus\source\repos\4.2 ADO.NET DISCONNETED MIMARI\obj\Debug\_4._2_ADO.NET_DISCONNETED_MIMARI.Form2.resources

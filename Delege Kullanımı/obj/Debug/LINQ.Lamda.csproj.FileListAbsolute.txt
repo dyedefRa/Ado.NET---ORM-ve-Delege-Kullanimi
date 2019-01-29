@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\LINQ.Lamda\bin\Debug\LINQ.Lamda.exe.config
+c:\users\asus\source\repos\LINQ.Lamda\bin\Debug\LINQ.Lamda.exe
+c:\users\asus\source\repos\LINQ.Lamda\bin\Debug\LINQ.Lamda.pdb
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.Form1.resources
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.Properties.Resources.resources
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.csproj.GenerateResource.Cache
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.exe
+c:\users\asus\source\repos\LINQ.Lamda\obj\Debug\LINQ.Lamda.pdb
